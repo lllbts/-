@@ -1,0 +1,6 @@
+title: 水母巢穴
+author: 伽马射线
+description: 爱吃食物的伽马射线的创作小站
+theme: minima
+plugins:
+  - jekyll-feed
